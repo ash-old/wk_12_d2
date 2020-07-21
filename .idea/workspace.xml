@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47165ef-e585-422c-bdc8-ecc2914de7f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f03f7jJlTySuVaJICRBCqU6bqC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in ThemeParkStartPoint">
+    <configuration name="All in ThemeParkStartPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stalls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stalls" />
+      <option name="MAIN_CLASS_NAME" value="stalls.TobaccoStallTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ThemeParkStartPoint" />
+        <item itemvalue="JUnit.DodgemTest" />
+        <item itemvalue="JUnit.RollercoasterTest" />
+        <item itemvalue="JUnit.TobaccoStallTest" />
+        <item itemvalue="JUnit.PlaygroundTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47165ef-e585-422c-bdc8-ecc2914de7f6" name="Default Changelist" comment="" />
+      <created>1595341282995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595341282995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1595361038600">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="622" y="222" key="#com.intellij.ide.util.MemberChooser/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1595361038600" />
+    <state width="1439" height="240" key="GridCell.Tab.0.bottom" timestamp="1595361807502">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1439" height="240" key="GridCell.Tab.0.bottom/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1595361807502" />
+    <state width="1439" height="240" key="GridCell.Tab.0.center" timestamp="1595361807500">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1439" height="240" key="GridCell.Tab.0.center/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1595361807500" />
+    <state width="1439" height="240" key="GridCell.Tab.0.left" timestamp="1595361807500">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1439" height="240" key="GridCell.Tab.0.left/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1595361807500" />
+    <state width="1439" height="240" key="GridCell.Tab.0.right" timestamp="1595361807501">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1439" height="240" key="GridCell.Tab.0.right/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1595361807501" />
+  </component>
+</project>
